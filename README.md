@@ -28,6 +28,8 @@ This project is a colorful maze game that takes up the full screen. Players navi
 2. Use the arrow keys to navigate through the maze.
 3. Avoid traps and try to reach the exit before time runs out!
 
+
+
 ## Contributing
 Feel free to submit issues or pull requests for improvements or bug fixes. 
 
