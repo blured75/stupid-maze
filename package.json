@@ -1,0 +1,23 @@
+{
+  "name": "maze-game",
+  "version": "1.0.0",
+  "description": "A colorful maze game with traps and a time limit.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "maze",
+    "game",
+    "javascript",
+    "colorful",
+    "traps",
+    "time-limited"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
